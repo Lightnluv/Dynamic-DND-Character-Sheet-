@@ -1,3 +1,23 @@
-.table input {
+.table input[type=number] {
     width: 100%;
+}
+
+.stat {
+    width:50px;
+    vertical-align:middle;
+}
+
+.btn {
+    padding:5px!important;
+    border-radius:5px;
+}
+
+.center-me {
+    text-align:center;
+}
+
+select {
+    padding:4px;
+    min-width:50px;
+    vertical-align:middle;
 }
